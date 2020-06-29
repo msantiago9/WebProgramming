@@ -1,0 +1,196 @@
+html{
+    color:whitesmoke;
+    text-shadow: 1px 1px black;
+    background-color: #101010;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a{
+    color:lightblue;
+    text-decoration: none;
+}
+
+.header{
+    background-color: #191919;
+}
+
+.header table{
+    background-color: #191919;
+    width:80%;
+    margin-left:10%;
+    margin-right:10%;
+}
+
+.main{
+    background-color: #292929;
+    margin-left:10%;
+    margin-right:10%;
+}
+
+.mainresume{
+    background-color: #292929;
+    width:1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#a{
+    font-size:35px;
+    text-align: left;
+    padding-left: 10%;
+}
+
+#b{
+    font-size:14px;
+    text-align: right;
+    padding-right: 5%;
+}
+
+#c{
+    max-width: 100%;
+    box-shadow: 5px 5px black;
+}
+
+#quote{
+    padding-top:20px;
+    padding-left:10px;
+    font-size: 16px;
+    font-style: italic;
+}
+
+#little{
+    color: red;
+}
+
+#author{
+    padding-bottom: 20px;
+    padding-left:30px;
+    font-size: 12px;
+    font-style: italic;
+}
+
+#about{
+    padding-left:10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+#bio{
+    padding-left:10px;
+    padding-right:30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#portrait{
+    vertical-align: top;
+    text-align: right;
+    padding-right: 15px;
+}
+
+#resume{
+    width:100%;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#resume_body{
+    width:100%;
+    padding-left:10px;
+    padding-right:10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#resume_body tr td:nth-child(2){
+    width:20%;
+}
+
+#resume tr td:nth-child(2){
+    width:20%;
+}
+
+.big{
+    font-size: 30px;
+}
+
+.medium{
+    font-size: 20px;
+}
+
+.small{
+    font-size:12px;
+}
+
+.lightpad{
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.italicized{
+    font-style: italic;
+}
+
+.bolded{
+    font-weight: bolder;
+}
+
+.topaligned{
+    vertical-align: top;
+}
+
+.rightaligned{
+    text-align: right;
+}
+
+.scale{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.main table{
+    width:100%;
+}
+
+.assignments{
+    border-collapse:collapse
+}
+
+.assignments tr:nth-child(odd){
+    background-color: #191919;
+}
+
+.assignments tr td,th{
+    border:1px solid white;
+    text-align: center;
+}
+
+.centered{
+    text-align:center;
+}
+
+.titled{
+    font-size: 35px;
+}
+
+.shadowed{
+    box-shadow: 5px 5px black;
+}
+
+.linked{
+    color:lightblue;
+}
+
+.divider{
+    margin-left:5%;
+    margin-right:5%;
+}
+
+.adjective-school{
+    color:red;
+    font-weight: bolder;
+}
+
+ul.sideways li{
+    list-style:circle;
+}
+
